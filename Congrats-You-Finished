@@ -1,0 +1,5 @@
+from earsketch import *
+
+setTempo(120)
+fitMedia(DUBSTEP_FILTERCHORD_001, 1, 1, 1.45)
+fitMedia(RD_EDM_RAVELEAD_6, 2, 1.25, 5)
