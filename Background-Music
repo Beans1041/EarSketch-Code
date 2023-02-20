@@ -1,0 +1,23 @@
+from earsketch import *
+
+setTempo(120)
+
+#this one has great energy vibes DUBSTEP_SUBBASS_001
+#this one has a great tempo RD_FUTURE_DUBSTEP_FILL_4
+# im having fun ELECTRO_ANALOGUE_BASS_004
+# hurry up ELECTRO_DRUM_MAIN_PART_010
+#badass RD_EDM_ANALOGLEAD_5
+#good old drum RD_EDM_DRUMROLL_BREAK_7
+#funky RD_EDM_RAVEBASSLINE_1
+#Congrats RD_EDM_RAVELEAD_6
+
+# Add Sounds
+fitMedia(DUBSTEP_SUBBASS_001, 1, 1, 15)
+fitMedia(RD_FUTURE_DUBSTEP_FILL_4, 2, 1.5, 9.25)
+fitMedia(RD_FUTURE_DUBSTEP_FILL_4, 3, 1.75, 9)
+fitMedia(RD_FUTURE_DUBSTEP_FILL_4, 4, 2, 9.25)
+fitMedia(ELECTRO_DRUM_MAIN_PART_010, 5, 9,16) # Fits in pretty good with the background
+fitMedia(Y62_CLAP_1,2,20.5,21.5)
+fitMedia(RD_EDM_DRUMROLL_BREAK_7, 1, 15, 21) #great for when things are about to get intense
+fitMedia(RD_EDM_RAVEBASSLINE_1, 5, 16,21.25 )# probably sound great if got rid of first track for a while
+fitMedia(YG_ELECTRO_CRASH_1, 2, 14.50, 15.50)
